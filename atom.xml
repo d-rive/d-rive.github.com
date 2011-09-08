@@ -4,7 +4,7 @@
   <title>www.d|-|rive.org</title>
   <link href="http://www.d-rive.org/atom.xml" rel="self"/>
   <link href="http://www.d-rive.org/"/>
-  <updated>2011-09-08T16:41:46-04:00</updated>
+  <updated>2011-09-08T16:58:55-04:00</updated>
   <id>http://www.d-rive.org/</id>
   <author>
     <name>D-Day</name>
@@ -26,7 +26,7 @@
 &lt;/ul&gt;
 
 
-&lt;p&gt;This post is such a &quot;program&quot;.&lt;/p&gt;
+&lt;p&gt;This post is such a program.&lt;/p&gt;
 
 &lt;div&gt;&lt;figure role=code&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre class=&quot;line-numbers&quot;&gt;&lt;span class='line'&gt;1&lt;/span&gt;
 &lt;span class='line'&gt;2&lt;/span&gt;
@@ -34,13 +34,7 @@
 &lt;/div&gt;&lt;div class='line'&gt;       ...&lt;/div&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;
 
 
-&lt;p&gt;``` haskell &quot;Test Import&quot;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;   import Prelude ()
-   ...
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;```&lt;/p&gt;
+&lt;p&gt;Liquid error: No such file or directory - python -c &quot;import sys; print sys.executable&quot;&lt;/p&gt;
 </content>
   </entry>
   
