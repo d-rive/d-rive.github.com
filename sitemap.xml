@@ -24,4 +24,16 @@
         <loc>http://d-rive.github.com/</loc>
         <lastmod>2011-09-10T13:15:45-04:00</lastmod>
     </url>
+    <url>
+        <loc>http://d-rive.github.com/new-page/</loc>
+        <lastmod>2011-09-10T14:46:10-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://d-rive.github.com/test-backticks/</loc>
+        <lastmod>2011-09-10T14:42:39-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://d-rive.github.com/test-gist/</loc>
+        <lastmod>2011-09-10T14:45:54-04:00</lastmod>
+    </url>
 </urlset>
