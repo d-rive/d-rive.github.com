@@ -4,7 +4,7 @@
   <title>∂ ≣ rive   /   shrive</title>
   <link href="http://d-rive.github.com/atom.xml" rel="self"/>
   <link href="http://d-rive.github.com/"/>
-  <updated>2011-09-10T14:47:08-04:00</updated>
+  <updated>2011-09-10T14:58:55-04:00</updated>
   <id>http://d-rive.github.com/</id>
   <author>
     <name>ↂay</name>
@@ -14,36 +14,36 @@
   
   <entry>
     <title>New-post</title>
-    <link href="http://d-rive.github.com/shrive/2011-09-10-new-post/"/>
+    <link href="http://d-rive.github.com/d--/iary/wh-new-post/"/>
     <updated>2011-09-10T13:15:00-04:00</updated>
-    <id>http://d-rive.github.com/shrive/new-post</id>
+    <id>http://d-rive.github.com/d&#8211;/iary/new-post</id>
     <content type="html">
 </content>
   </entry>
   
   <entry>
     <title>Letterate Programming</title>
-    <link href="http://d-rive.github.com/shrive/2011-09-10-letterate-programming/"/>
+    <link href="http://d-rive.github.com/d--/iary/wh-letterate-programming/"/>
     <updated>2011-09-10T13:15:00-04:00</updated>
-    <id>http://d-rive.github.com/shrive/letterate-programming</id>
+    <id>http://d-rive.github.com/d&#8211;/iary/letterate-programming</id>
     <content type="html">
 </content>
   </entry>
   
   <entry>
     <title>Why Ruby?</title>
-    <link href="http://d-rive.github.com/shrive/2011-09-10-why-ruby/"/>
+    <link href="http://d-rive.github.com/d--/iary/wh-why-ruby/"/>
     <updated>2011-09-10T13:12:00-04:00</updated>
-    <id>http://d-rive.github.com/shrive/why-ruby</id>
+    <id>http://d-rive.github.com/d&#8211;/iary/why-ruby</id>
     <content type="html">
 </content>
   </entry>
   
   <entry>
     <title>Why Haskell?</title>
-    <link href="http://d-rive.github.com/shrive/2011-09-10-why-haskell/"/>
+    <link href="http://d-rive.github.com/d--/iary/wh-why-haskell/"/>
     <updated>2011-09-10T13:10:00-04:00</updated>
-    <id>http://d-rive.github.com/shrive/why-haskell</id>
+    <id>http://d-rive.github.com/d&#8211;/iary/why-haskell</id>
     <content type="html">
 </content>
   </entry>
